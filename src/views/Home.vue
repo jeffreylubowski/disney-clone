@@ -89,7 +89,7 @@
           }"
       >
         <vue-glide-slide>
-            <router-link to="/about">
+            <router-link to="/detailpage1">
               <img src="../assets/star_wars_a_new_hope.jpg" alt="starwars" class="rounded">
             </router-link>
         </vue-glide-slide>
