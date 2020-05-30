@@ -6,17 +6,17 @@
             :bullet="true"
             class="mb-12">
       <vue-glide-slide>
-        <router-link to="/about" class="mb-12">
+        <router-link to="/detailpage1" class="mb-12">
           <img src="../assets/slide1.jpg" alt="" class="rounded">
         </router-link>
       </vue-glide-slide>
       <vue-glide-slide>
-        <router-link to="/about">
+        <router-link to="/detailpage1">
           <img src="../assets/slide2.jpg" alt="" class="rounded">
         </router-link>
       </vue-glide-slide>
       <vue-glide-slide>
-        <router-link to="/about" class="mb-12">
+        <router-link to="/detailpage1" class="mb-12">
           <img src="../assets/slide3.jpg" alt="" class="rounded">
         </router-link>
       </vue-glide-slide>
@@ -94,32 +94,32 @@
             </router-link>
         </vue-glide-slide>
         <vue-glide-slide>
-          <router-link to="/about">
+          <router-link to="/detailpage1">
             <img src="../assets/captain_marvel_background.jpg" alt="starwars" class="rounded">
           </router-link>
         </vue-glide-slide>
         <vue-glide-slide>
-          <router-link to="/about">
+          <router-link to="/detailpage1">
             <img src="../assets/cinderella.jpg" alt="starwars" class="rounded">
           </router-link>
         </vue-glide-slide>
         <vue-glide-slide>
-          <router-link to="/about">
+          <router-link to="/detailpage1">
             <img src="../assets/forky_asks_a_question.jpg" alt="starwars" class="rounded">
           </router-link>
         </vue-glide-slide>
         <vue-glide-slide>
-          <router-link to="/about">
+          <router-link to="/detailpage1">
             <img src="../assets/high_school_musical.jpg" alt="starwars" class="rounded">
           </router-link>
         </vue-glide-slide>
         <vue-glide-slide>
-        <router-link to="/about">
+        <router-link to="/detailpage1">
           <img src="../assets/remember_the_titans.jpg" alt="starwars" class="rounded">
         </router-link>
       </vue-glide-slide>
         <vue-glide-slide>
-          <router-link to="/about">
+          <router-link to="/detailpage1">
             <img src="../assets/star_wars_a_new_hope.jpg" alt="starwars" class="rounded">
           </router-link>
         </vue-glide-slide>
@@ -160,22 +160,22 @@
           }"
         >
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/the_sound_of_music.jpg" alt="star wars" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/the_sound_of_music.jpg" alt="star wars" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/high_school_musical.jpg" alt="snow white" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/high_school_musical.jpg" alt="snow white" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/remember_the_titans.jpg" alt="zootopia" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/remember_the_titans.jpg" alt="zootopia" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/avengers_infinity_war.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/avengers_infinity_war.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/cinderella.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/cinderella.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/remember_the_titans.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/remember_the_titans.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <template slot="control">
             <button data-glide-dir="<" class="absolute w-8 h-8 rounded-full bg-gray-500" style="top:calc(50% - 16px); left: 10px">
@@ -215,22 +215,22 @@
           }"
         >
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/lady_and_the_tramp.jpg" alt="star wars" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/lady_and_the_tramp.jpg" alt="star wars" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/remember_the_titans.jpg" alt="snow white" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/remember_the_titans.jpg" alt="snow white" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/high_school_musical.jpg" alt="zootopia" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/high_school_musical.jpg" alt="zootopia" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/forky_asks_a_question.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/forky_asks_a_question.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/marvel_hero_project.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/marvel_hero_project.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/marvel_hero_project.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/marvel_hero_project.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <template slot="control">
             <button data-glide-dir="<" class="absolute w-8 h-8 rounded-full bg-gray-500" style="top:calc(50% - 16px); left: 10px">
@@ -270,22 +270,22 @@
           }"
         >
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/avengers_endgame.jpg" alt="star wars" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/avengers_endgame.jpg" alt="star wars" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/avengers_infinity_war.jpg" alt="snow white" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/avengers_infinity_war.jpg" alt="snow white" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/black_panther.jpg" alt="zootopia" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/black_panther.jpg" alt="zootopia" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/star_wars_a_new_hope.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/star_wars_a_new_hope.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/zootopia.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/zootopia.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <vue-glide-slide>
-            <router-link to="/about"><img src="@/assets/zootopia.jpg" alt="one strange rock" class="rounded"></router-link>
+            <router-link to="/detailpage1"><img src="@/assets/zootopia.jpg" alt="one strange rock" class="rounded"></router-link>
           </vue-glide-slide>
           <template slot="control">
             <button data-glide-dir="<" class="absolute w-8 h-8 rounded-full bg-gray-500" style="top:calc(50% - 16px); left: 10px">
