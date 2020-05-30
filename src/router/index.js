@@ -27,7 +27,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () =>
       import(/* webpackChunkName: "detailpag1" */ "../views/DetailPage1.vue")
-  },
+  }
 ];
 
 const router = new VueRouter({
